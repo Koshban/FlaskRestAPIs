@@ -7,11 +7,11 @@ Example  : http://localhost:8000/people/Banerjee
 ---------------------------------------------------------------------------
 Action	|HTTP Verb	|URL Path	            |Description                  |
 ---------------------------------------------------------------------------
-Read	|GET	    |/api/people	        |Read a collection of people. |
-Create	|POST	    |/api/people	        |Create a new person.         |
-Read	|GET	    |/api/people/<lname>	|Read a particular person.    |
-Update	|PUT	    |/api/people/<lname>	|Update an existing person.   |
-Delete	|DELETE	    |/api/people/<lname>	|Delete an existing person.   |
+Read	|GET 	    |/api/people 	        |Read a collection of people. |
+Create	|POST	    |/api/people 	        |Create a new person.         |
+Read	|GET 	    |/api/people/<lname> 	|Read a particular person.    |
+Update	|PUT 	    |/api/people/<lname> 	|Update an existing person.   |
+Delete	|DELETE	    |/api/people/<lname> 	|Delete an existing person.   |
 ---------------------------------------------------------------------------
 
 Example -- http://localhost:8000/api/notes/1 
